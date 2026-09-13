@@ -1,7 +1,5 @@
 # 💫 About Me:
-Aspiring Data Analyst /Data Scientist 
-Core Skills :
-| Machine Learning | Python | SQL | Data Analysis | EDA | Data Visualization | Predictive Modeling | Pandas | NumPy | scikit-learn | Data Cleaning  | Excel | Tableau | Power BI | 
+AI/ML & Data Science Enthusiast | Generative AI | LLMs | RAG | NLP | Machine Learning | Python | SQL
 
 
 ## 🌐 Socials:
